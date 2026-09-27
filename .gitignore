@@ -1,1 +1,10 @@
-__pycache__/ 
+# Local virtual environment
+.venv/
+
+# Generated Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local test and formatting caches
+.pytest_cache/
+.ruff_cache/

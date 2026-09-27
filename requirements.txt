@@ -1,0 +1,2 @@
+# No third-party packages are required by the learning examples.
+# All imports use the Python standard library or local helpers.
